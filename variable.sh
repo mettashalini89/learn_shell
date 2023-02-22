@@ -9,3 +9,7 @@ echo -e "\e[32m today date is ${Date}\e[0m"
 Date=$(date)
 echo ${Date}
 
+# arthematic substitution
+add=$((3+4))
+echo "addition of 3 and 4 is ${add}"
+
