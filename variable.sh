@@ -6,6 +6,6 @@ echo -e "\e[32m today date is ${Date}\e[0m"
 # we can assign dynamic data by assigning command or arthematic eexpressions to var
 
 # command substitution
-Date=date
+Date=$(date)
 echo ${Date}
 
