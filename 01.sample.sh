@@ -14,4 +14,4 @@ echo "hello Wprld"
 #magenta - 35
 #cyon - 36
 
-echo -e "/e[35m Hello World /e[0m"
+echo -e "/e[35mHello World/e[0m"
