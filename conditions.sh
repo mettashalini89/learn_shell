@@ -7,6 +7,8 @@ fi
 
 if [ "${string}" == abc ]; then
   echo "string is abc"
+else
+  echo "string is not abc"
 fi
 
 #it is good practice to keep variables in double quotes
